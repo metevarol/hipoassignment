@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "47C4ECC6-9CA1-466E-A042-773D6B97E803"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63D5B818-1C1D-4612-9E8F-11D45DB66AED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hipoapp/ViewModels/MembersViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "filterMembers(searchText:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "63D5B818-1C1D-4612-9E8F-11D45DB66AED - cf56fa7470450bca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (hipoapp.Hipo.Member) -&gt; Swift.Bool in hipoapp.MembersViewModel.filterMembers(searchText: Swift.String) -&gt; ()"
+                  moduleName = "hipoapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mete/Developer/swift/hipoapp/hipoapp/ViewModels/MembersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "613">
+               </Location>
+               <Location
+                  uuid = "63D5B818-1C1D-4612-9E8F-11D45DB66AED - cf56fa7470450bca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (hipoapp.Hipo.Member) -&gt; Swift.Bool in hipoapp.MembersViewModel.filterMembers(searchText: Swift.String) -&gt; ()"
+                  moduleName = "hipoapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mete/Developer/swift/hipoapp/hipoapp/ViewModels/MembersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "596">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
